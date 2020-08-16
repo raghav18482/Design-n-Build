@@ -1,6 +1,6 @@
-# material_on_web
+# flutter_webpage
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 
